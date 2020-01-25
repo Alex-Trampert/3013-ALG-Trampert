@@ -4,7 +4,7 @@ MSU Student Repository for Classwork and Programs
 #### Email: alextrampert2000@gmail.com 
 #### Website: None
 #### Image
-![Alex Trampert]()
+![Alex Trampert](./Images/ProfPic.jpg)
 
 #### Avatar
 ![Avatar Photo]()
