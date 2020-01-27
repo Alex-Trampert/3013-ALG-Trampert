@@ -1,4 +1,4 @@
-# 3013-ALG-Trampert
+# 3013-ALG-Trampert VS
 MSU Student Repository for Classwork and Programs
 ## Alex Trampert
 #### Email: alextrampert2000@gmail.com 
