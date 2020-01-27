@@ -17,6 +17,8 @@ struct Node {
     }
 };
 
+//Comment for class
+
 class List {
 private:
     Node *Head;
