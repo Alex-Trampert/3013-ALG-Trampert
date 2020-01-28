@@ -4,3 +4,4 @@
 | :----: | ------ | ----------- |
 | 01 | 01-Getting Started | Learning Github |
 |  02    | 02-CommentedCode    |   Learn Commenting Basics    |
+| 03 | 03-Banner Page | Creating Banner for Assignments |
