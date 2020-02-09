@@ -1,2 +1,1 @@
-##
-Banner subject to change based on current assignment
+## Banner subject to change based on current assignment
