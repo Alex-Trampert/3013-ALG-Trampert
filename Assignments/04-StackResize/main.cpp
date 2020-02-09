@@ -169,7 +169,7 @@ public:
             int temp;
             temp = A[top--];
 
-            if (!Half() && (size > 10))
+            if (!Half() && (size > 19))
                 ContainerShrink();
 
             return temp;
@@ -296,7 +296,7 @@ public:
      *      [bool] true = half
      */
     bool Half() {
-        return (top >= (size - 1) / 2);
+        return ((top + 1) >= (size / 2));
     }
 
     /**
@@ -356,7 +356,7 @@ int main() {
     int temp = 0;                   //int to hold stack data
 
     ifstream(infile);               //open input file
-    infile.open("nums.dat");
+    infile.open("nums_test.dat");
     ofstream(outfile);              //open output file
     outfile.open("output.dat");
     
