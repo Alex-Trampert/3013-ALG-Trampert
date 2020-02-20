@@ -7,3 +7,4 @@
 | 03 | [03-Banner Page](./03-Banner%20Page) | Creating Banner for Assignments |
 | 04 | [04-StackResize](./04-StackResize) | Program for Resizing Stack Array |
 | 05 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
+| 06 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
