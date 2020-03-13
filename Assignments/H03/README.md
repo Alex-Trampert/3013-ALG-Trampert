@@ -6,13 +6,13 @@
 
 
 - Complexities : **O(1), O(n log n), O(n), O(n<sup>2</sup>), O(log n), O(n!) , O(h)**
-- 1) Finding the max element in an unordered stack would require ____O(n)_____ operations?
-- 2) Finding the min element in an unordered queue would require ____O(n)_____ operations?
-- 3) Finding some element in some Binary Search Tree would require ____O(log n)_____ operations?
-- 4) Finding some element in a balanced Binary Search Tree would require ____O(log n)_____ operations?
-- 5) Finding some element in an ordered linked list would require ____O(n)_____ operations (worst case)?
-- 6) Finding some element in an ordered linked list would require ____O(n/2)_____ operations (average case)?
-- 7) Finding some element in an unordered linked list would require ____O(n)_____ operations (worst case)?
+- 1) Finding the max element in an unordered stack would require ____O(n)____ operations?
+- 2) Finding the min element in an unordered queue would require ____O(n)____ operations?
+- 3) Finding some element in some Binary Search Tree would require ____O(log n)____ operations?
+- 4) Finding some element in a balanced Binary Search Tree would require ____O(log n)____ operations?
+- 5) Finding some element in an ordered linked list would require ____O(n)____ operations (worst case)?
+- 6) Finding some element in an ordered linked list would require ____O(n/2)____ operations (average case)?
+- 7) Finding some element in an unordered linked list would require ____O(n)____ operations (worst case)?
 
 
 - 8) For each of the following, count the number of operations where some_statement is executed based on the loops
@@ -48,36 +48,37 @@ for (int j = 1 ; j < n ; j *= 2)
 
 At most, how many comparisons are required to search a sorted vector of 1023 elements using the binary
 search algorithm?
-    At most 10 searches.
+   
+   At most 10 searches.
 
 In each of the following examples, please choose the best data structure(s).
 - 9) Options are: **Array, Linked Lists, Stack, Queues, Trees, Graphs, Sets, Hash Tables**. 
 - 10) Note that there may not be one clear answer.
 
 - 10) You have to store social network “feeds”. You do not know the size, and things may need to be dynamically added.
-        List
+        - List
 - 11) You need to store undo/redo operations in a word processor.
-        Stack
+        - Stack
 - 12) You need to evaluate an expression (i.e., parse).
-        Stack
+        - Stack
 - 13) You need to store the friendship information on a social networking site. I.e., who is friends with who.
-        Graph
+        - Graph
 - 14) You need to store an image (1000 by 1000 pixels) as a bitmap.
-        Array
+        - Array
 - 15) To implement printer spooler so that jobs can be printed in the order of their arrival.
-        Queue
+        - Queue
 - 16) To implement back functionality in the internet browser.
-        Stack
+        - Stack
 - 17) To store the possible moves in a chess game.
-        Graph (directed)
+        - Graph (directed)
 - 18) To store a set of fixed key words which are referenced very frequently.
-        Hash Table
+        - Hash Table
 - 19) To store the customer order information in a drive-in burger place. (Customers keep on coming and they have to get their correct food at the payment/food collection window.)
-        Queue
+        - Queue
 - 20) To store the genealogy information of biological species.
-        Hierarchical Tree
+        - Hierarchical Tree
 - 21) To store an alphabetized list of names in order to look up quickly.
-        Hash Table/Tree/List
+        - Hash Table/Tree/List
 
 
 ## Deliverables
