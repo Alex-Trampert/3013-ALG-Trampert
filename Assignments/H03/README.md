@@ -14,7 +14,6 @@
 - 6) Finding some element in an ordered linked list would require ____O(n/2)____ operations (average case)?
 - 7) Finding some element in an unordered linked list would require ____O(n)____ operations (worst case)?
 
-
 - 8) For each of the following, count the number of operations where some_statement is executed based on the loops
 
 - 8A)
