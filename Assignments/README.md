@@ -6,5 +6,6 @@
 | 02 | [02-CommentedCode](./02-CommentedCode) | Learn Commenting Basics |
 | 03 | [03-Banner Page](./03-Banner%20Page) | Creating Banner for Assignments |
 | 04 | [04-StackResize](./04-StackResize) | Program for Resizing Stack Array |
-| 05 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
-| 06 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
+| 05 | [11172](.11172) | Tutorial for Online Judge |
+| 06 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
+| 07 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
