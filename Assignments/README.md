@@ -7,8 +7,9 @@
 | 03 | [03-Banner Page](./03-Banner%20Page) | Creating Banner for Assignments |
 | 04 | [04-StackResize](./04-StackResize) | Program for Resizing Stack Array |
 | 05 | [459](./459) | Graph Connectivity uVA |
-| 06 | [484](./484) | Department of Redundancy Department uVA |
-| 07 | [11172](./11172) | Tutorial for Online Judge |
-| 08 | [11597](./11597) | Spanning Subtrees |
-| 09 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
-| 10 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
+| 06 | [484](./484) | Department of Redundancy Department UVa |
+| 07 | [1112](./1112) | Mice and Maze UVa |
+| 08 | [11172](./11172) | Tutorial for Online Judge UVa |
+| 09 | [11597](./11597) | Spanning Subtrees UVa |
+| 10 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
+| 11 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
