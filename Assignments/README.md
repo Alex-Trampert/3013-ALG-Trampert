@@ -9,7 +9,8 @@
 | 05 | [459](./459) | Graph Connectivity uVA |
 | 06 | [484](./484) | Department of Redundancy Department UVa |
 | 07 | [1112](./1112) | Mice and Maze UVa |
-| 08 | [11172](./11172) | Tutorial for Online Judge UVa |
-| 09 | [11597](./11597) | Spanning Subtrees UVa |
-| 10 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
-| 11 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
+| 08 | [10261](./10261) | Ferry Loading 1 |
+| 09 | [11172](./11172) | Tutorial for Online Judge UVa |
+| 10 | [11597](./11597) | Spanning Subtrees UVa |
+| 11 | [H02-Heapify](./H02-Heapify) | Heap class and functions |
+| 12 | [P02-Processing In Linear Time](./P02-Processing%20In%20Linear%20Time) | JSON Dictionary and Searches |
